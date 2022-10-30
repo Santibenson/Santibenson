@@ -6,8 +6,7 @@
 
 ## 🚀 About Me
 
-
-                                                <b>I'm a Django Developer | Front-End Developer | UI Enthusiast</b>
+## 👩‍💻 I'm a Django Developer | Front-End Developer | UI Enthusiast
 
 
 ## 🔗Social Links
