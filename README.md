@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-## 👩‍💻 FoolStack.
+## I'm a 👩‍💻 FoolStack Dev.
 
 
 ## 🔗Social Links
