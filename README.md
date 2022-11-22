@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-## 👩‍💻 I'm a Django Developer | Front-End Developer | UI Enthusiast.
+## 👩‍💻 FoolStack.
 
 
 ## 🔗Social Links
@@ -16,7 +16,7 @@
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Bootstrap, Django, React.
+Bootstrap, Django, React.
 
 ## 
 👩‍💻 I'm currently working on a social media webapp
